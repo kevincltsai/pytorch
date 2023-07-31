@@ -1,2 +1,2 @@
 # pytorch
-my exercise for pytorch
+my exercises for pytorch
